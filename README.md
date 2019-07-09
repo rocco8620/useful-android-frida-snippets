@@ -1,4 +1,4 @@
-# useful-frida-snippets
+# useful-android-frida-snippets
 Useful Android Frida code snippets. (Utili frammenti di Frida per androidi)
 
 Some of the snippets aren't made by me. Credits goes to the authors.
