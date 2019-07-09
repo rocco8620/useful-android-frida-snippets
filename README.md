@@ -18,7 +18,7 @@ Java.perform(function() {
 
 </details>
 
---
+---
 
 <details>
 <summary>Print class members and methods</summary>
